@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/conta-digital.application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/conta-digital.application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/conta-digital.application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/application/conta-digital.application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/conta-digital.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/conta-digital.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/conta-digital.infrastructure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/conta-digital.infrastructure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/conta-digital.infrastructure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/conta-digital.infrastructure.test.iml" />
+    </modules>
+  </component>
+</project>

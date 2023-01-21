@@ -9,4 +9,4 @@
 
 rootProject.name = "conta-digital"
 
-include("domain")
+include("application", "domain", "infrastructure")
