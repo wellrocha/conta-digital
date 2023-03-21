@@ -7,5 +7,4 @@ data class ApiError(
     val errors: List<String?>
 ){
     constructor(status: HttpStatus, error: String?) : this(status, arrayListOf<String?>(error))
-    constructor(status: HttpStatus) : this(status, arrayListOf<String>())
 }

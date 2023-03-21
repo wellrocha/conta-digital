@@ -1,8 +1,8 @@
 package com.wellrocha.core.customer.application.port.outgoing
 
-import com.wellrocha.core.customer.domain.entity.CustomerEntity
+import com.wellrocha.core.customer.application.dto.CustomerDto
 
 interface CustomerRepositoryPort {
-    fun create(fullName: String, cpf: String): CustomerEntity
-    fun findByCpf(cpf: String) : CustomerEntity?
+    fun create(fullName: String, cpf: String): CustomerDto
+    fun findByCpf(cpf: String) : CustomerDto?
 }

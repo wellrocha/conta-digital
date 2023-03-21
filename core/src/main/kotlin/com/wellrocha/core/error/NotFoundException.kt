@@ -1,3 +1,3 @@
-package com.wellrocha.core.customer.domain.error
+package com.wellrocha.core.error
 
 class NotFoundException(message: String) : RuntimeException(message)
